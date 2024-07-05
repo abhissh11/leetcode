@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/dev-abhishekkr/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dev-abhishekkr/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
