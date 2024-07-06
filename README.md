@@ -18,6 +18,7 @@
 | ------- |
 | [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/dev-abhishekkr/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
