@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dev-abhishekkr/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/dev-abhishekkr/leetcode/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/dev-abhishekkr/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
