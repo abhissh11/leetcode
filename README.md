@@ -24,6 +24,7 @@
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,10 +39,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dev-abhishekkr/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
