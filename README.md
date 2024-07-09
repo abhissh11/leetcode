@@ -12,6 +12,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dev-abhishekkr/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/dev-abhishekkr/leetcode/tree/master/2645-pass-the-pillow) |
 ## Array
@@ -24,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
+| [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
