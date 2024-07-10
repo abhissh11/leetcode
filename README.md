@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/dev-abhishekkr/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/dev-abhishekkr/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dev-abhishekkr/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dev-abhishekkr/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
+| [0908-middle-of-the-linked-list](https://github.com/dev-abhishekkr/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
