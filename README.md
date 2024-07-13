@@ -69,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/dev-abhishekkr/leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Search
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dev-abhishekkr/leetcode/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dev-abhishekkr/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
