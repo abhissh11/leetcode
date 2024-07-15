@@ -35,6 +35,7 @@
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dev-abhishekkr/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dev-abhishekkr/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/dev-abhishekkr/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +115,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
