@@ -29,6 +29,7 @@
 | [0035-search-insert-position](https://github.com/dev-abhishekkr/leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/dev-abhishekkr/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhishekkr/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dev-abhishekkr/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dev-abhishekkr/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -130,5 +132,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
