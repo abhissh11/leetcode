@@ -32,6 +32,7 @@
 | [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0403-frog-jump](https://github.com/dev-abhishekkr/leetcode/tree/master/0403-frog-jump) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0403-frog-jump](https://github.com/dev-abhishekkr/leetcode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
