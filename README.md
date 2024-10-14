@@ -71,11 +71,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -149,5 +151,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
