@@ -38,6 +38,7 @@
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dev-abhishekkr/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -155,4 +157,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
