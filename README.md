@@ -31,6 +31,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dev-abhishekkr/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/dev-abhishekkr/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/dev-abhishekkr/leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0403-frog-jump](https://github.com/dev-abhishekkr/leetcode/tree/master/0403-frog-jump) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/dev-abhishekkr/leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/dev-abhishekkr/leetcode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
