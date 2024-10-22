@@ -75,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dev-abhishekkr/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dev-abhishekkr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dev-abhishekkr/leetcode/tree/master/0198-house-robber) |
@@ -84,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dev-abhishekkr/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dev-abhishekkr/leetcode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/dev-abhishekkr/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dev-abhishekkr/leetcode/tree/master/1013-fibonacci-number) |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dev-abhishekkr/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
