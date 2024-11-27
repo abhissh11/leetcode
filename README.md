@@ -41,6 +41,7 @@
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -54,6 +55,7 @@
 | [0141-linked-list-cycle](https://github.com/dev-abhishekkr/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
@@ -71,11 +73,13 @@
 | [0141-linked-list-cycle](https://github.com/dev-abhishekkr/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/dev-abhishekkr/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dev-abhishekkr/leetcode/tree/master/0015-3sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dev-abhishekkr/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
