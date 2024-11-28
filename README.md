@@ -38,6 +38,7 @@
 | [0213-house-robber-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0403-frog-jump](https://github.com/dev-abhishekkr/leetcode/tree/master/0403-frog-jump) |
+| [0724-find-pivot-index](https://github.com/dev-abhishekkr/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
@@ -191,5 +192,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/dev-abhishekkr/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/dev-abhishekkr/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
