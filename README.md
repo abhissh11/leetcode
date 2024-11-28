@@ -41,6 +41,7 @@
 | [0724-find-pivot-index](https://github.com/dev-abhishekkr/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1319-unique-number-of-occurrences](https://github.com/dev-abhishekkr/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
@@ -57,6 +58,7 @@
 | [0141-linked-list-cycle](https://github.com/dev-abhishekkr/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1319-unique-number-of-occurrences](https://github.com/dev-abhishekkr/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
