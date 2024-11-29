@@ -38,6 +38,7 @@
 | [0213-house-robber-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dev-abhishekkr/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0403-frog-jump](https://github.com/dev-abhishekkr/leetcode/tree/master/0403-frog-jump) |
+| [0643-maximum-average-subarray-i](https://github.com/dev-abhishekkr/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dev-abhishekkr/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/dev-abhishekkr/leetcode/tree/master/0792-binary-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -196,4 +197,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/dev-abhishekkr/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/dev-abhishekkr/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dev-abhishekkr/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
