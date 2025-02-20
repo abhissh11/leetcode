@@ -50,6 +50,7 @@
 | [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/dev-abhishekkr/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2107-find-unique-binary-string](https://github.com/dev-abhishekkr/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dev-abhishekkr/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -64,6 +65,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/dev-abhishekkr/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/dev-abhishekkr/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2107-find-unique-binary-string](https://github.com/dev-abhishekkr/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dev-abhishekkr/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
@@ -143,6 +145,7 @@
 | [0058-length-of-last-word](https://github.com/dev-abhishekkr/leetcode/tree/master/0058-length-of-last-word) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-abhishekkr/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dev-abhishekkr/leetcode/tree/master/1720-crawler-log-folder) |
+| [2107-find-unique-binary-string](https://github.com/dev-abhishekkr/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/dev-abhishekkr/leetcode/tree/master/0077-combinations) |
+| [2107-find-unique-binary-string](https://github.com/dev-abhishekkr/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
