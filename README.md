@@ -49,6 +49,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-abhishekkr/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/dev-abhishekkr/leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/dev-abhishekkr/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/dev-abhishekkr/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dev-abhishekkr/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2107-find-unique-binary-string](https://github.com/dev-abhishekkr/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-abhishekkr/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
